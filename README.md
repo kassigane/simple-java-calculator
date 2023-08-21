@@ -1,2 +1,0 @@
-# simple-java-calculator
-This Java program is a simple console-based calculator that allows users to perform basic arithmetic operations (+, -, *, /) on two numbers. It uses the Scanner class to read user input and provides clear prompts for operator selection and number entry. The program demonstrates the use of switch statements for different operations and includes error handling to prevent division by zero. A straightforward and educational example for beginners learning Java programming.
